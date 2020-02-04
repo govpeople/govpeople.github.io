@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'DINCondBold';
+    src: url('../fonts/dincondbold.eot.html');
+    src: url('../fonts/dincondbold.eot.html') format('embedded-opentype'),
+         url('../fonts/dincondbold.woff2.html') format('woff2'),
+         url('../fonts/dincondbold.woff.html') format('woff'),
+         url('../fonts/dincondbold.ttf.html') format('truetype'),
+         url('../fonts/dincondbold.svg.html#dincondbold') format('svg');
+}
+
+@font-face {
+    font-family: 'BOOKOS';
+    src: url('../fonts/bookos.eot.html');
+    src: url('../fonts/bookos.eot.html') format('embedded-opentype'),
+         url('../fonts/bookos.woff2.html') format('woff2'),
+         url('../fonts/bookos.woff.html') format('woff'),
+         url('../fonts/bookos.ttf.html') format('truetype'),
+         url('../fonts/bookos.svg.html#bookos') format('svg');
+}
+
+.f-dinc{font-family: 'DINCondBold';}
+.f-bookos{font-family: 'BOOKOS'}
